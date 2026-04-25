@@ -1,0 +1,6 @@
+# robots.txt for TechBastia
+
+User-agent: *
+Allow: /
+
+Sitemap: https://techbastia.com/sitemap.xml
